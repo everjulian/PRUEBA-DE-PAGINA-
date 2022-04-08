@@ -1,0 +1,65 @@
+
+#seccion{
+    margin: 30px;
+    width: 600px;
+    float: left;
+}
+#menu{
+    background-color: #1f4a4f;
+    display: inline-block ;
+}
+
+#panel{
+    float: right;
+    margin: auto; 
+    display:inline-block;
+    min-height: 150px;
+    margin-top: 50px;
+
+}
+#barra li {
+    display: inline-block ;
+    padding: 10px;
+    margin: 10px;
+    font-family: Georgia;
+
+
+
+    
+}
+
+#barra li{
+	color: white;
+}
+
+#barra :hover{
+	color:darkorange;
+}
+
+
+.titulo{
+    font-size: 50px
+}
+h4{
+ 
+  
+    font-family:Arial, ;
+
+
+   
+}
+
+input {
+	outline: none;
+	box-sizing:content-box;
+	height: 60px;
+	padding: 0 20px;
+	color: #000;
+	border-radius: 50px;
+	font-size: 20px;
+	border: 1px solid #283048;  ;
+	transition: all .7s ease;
+}
+#diseño{
+    color: darkgray;
+}
